@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Acerca de mi:<br><br>Perfil de Git hub - carlos saravia<br><br>!Hola¡ Soy carlos saravia.aprendiz del Tecnico en programacion de software <br>Ficha:2875029<br><br>Mi objetivo es aprender y compartir mis conocimientos y experiencias para ayudar a otros a <br>aprender y crecer en el mundo de la programacion
 
 
